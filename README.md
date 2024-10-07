@@ -12,6 +12,11 @@
 /* Стили пиши здесь :) */
 h1 {
     color:red;
+    text-align:center;
+}
+img{
+    display:block;
+    margin:auto;
 }
 </style>
 <body>
@@ -19,3 +24,4 @@ h1 {
 <img src="/uploads/2023/02/donut.png">
 </body>
 </html>
+
